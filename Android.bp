@@ -1,0 +1,5 @@
+rust_stdlib_prebuilt_host {
+    name: "libstd",
+    crate_name: "std",
+    sysroot: true,
+}
